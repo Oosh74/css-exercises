@@ -1,0 +1,5 @@
+.container p {
+  background-color: rgb(250, 250, 0);
+  color: hsl(0, 100%, 50%);
+  text-align: center;
+}
